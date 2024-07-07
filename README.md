@@ -4,7 +4,6 @@
 # Data
 You can get the CelebA dataset from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html <br>
 You can get the Season dataset from Combogan: Unrestrained scalability for image domain translation <br>
-
 # Author
 Author：Dianlong Y, Zhao Y; Coder: Zhao Y; Email：yuzhao0319@163.com <br>
 
